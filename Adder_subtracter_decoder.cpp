@@ -5,7 +5,7 @@ using namespace std;
  char Repeat;
 int main()
 {
-//Habibullahbalti………………………………..
+//Habibullahbalti………………………………....
 	do
 	{
 	
